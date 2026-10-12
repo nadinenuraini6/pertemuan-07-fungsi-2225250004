@@ -1,9 +1,9 @@
 
 # Pertemuan 07 Fungsi Python
 
-Nama: [Nama Lengkap]
-NIM: [NIM]
-Kelas: [Kelas]
+Nama: [Nadine Nur'Aini]
+NIM: [2225250004]
+Kelas: [3B]
 
 ## Tujuan
 
@@ -71,4 +71,3 @@ python praktik/utilitas_matematika.py
 ## Refleksi
 
 Setelah mengerjakan latihan Pertemuan 07, saya memahami bahwa fungsi dapat membuat program lebih terstruktur dan mengurangi pengulangan kode. Parameter digunakan untuk menerima data, sedangkan `return` digunakan untuk mengembalikan hasil agar dapat dipakai dalam proses berikutnya. Saya juga memahami perbedaan variabel lokal dan global serta pentingnya melakukan pengujian untuk memastikan program berjalan dengan benar.
-# pertemuan-07-fungsi-2225250004
